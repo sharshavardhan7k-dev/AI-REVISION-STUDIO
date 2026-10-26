@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Local data & credentials
+.env
+users.json
+history.json
+
+# Streamlit local settings
+.streamlit/
